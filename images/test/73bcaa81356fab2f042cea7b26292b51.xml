@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>73bcaa81356fab2f042cea7b26292b51</filename>
+  <path>C:\tensorflow1\models\research\object_detection\images\test\73bcaa81356fab2f042cea7b26292b51.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>900</width>
+    <height>690</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Carton</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>389</xmin>
+      <ymin>107</ymin>
+      <xmax>689</xmax>
+      <ymax>582</ymax>
+    </bndbox>
+  </object>
+</annotation>

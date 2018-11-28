@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>1ltr-Whole-Super-Milk-1-1-697x1024 (1)</filename>
+  <path>C:\tensorflow1\models\research\object_detection\images\train\1ltr-Whole-Super-Milk-1-1-697x1024 (1).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>697</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Carton</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>183</xmin>
+      <ymin>83</ymin>
+      <xmax>508</xmax>
+      <ymax>882</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>82429a82c9e1e89685ec0d6bb4dfb436--arla-milk-yogurt</filename>
+  <path>C:\tensorflow1\models\research\object_detection\images\test\82429a82c9e1e89685ec0d6bb4dfb436--arla-milk-yogurt.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>236</width>
+    <height>563</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Carton</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>11</ymin>
+      <xmax>219</xmax>
+      <ymax>555</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -22,6 +22,9 @@ in the GPU GitHub tutorial and install all relevant dependencies. They could the
 labelmap file.
 
 ====================================================================================================
+It is also worth noting that not all of the images used in training were included. This is due to the fact
+that over 200 imaes were used per object. A sample of the images used along with their corresponding xml
+documents which describe the object outline have been inclduded.
 
 =============================================WARNING================================================
 Tensor flow is extremely petty and setup is not smooth
